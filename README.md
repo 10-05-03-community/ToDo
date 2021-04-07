@@ -155,6 +155,10 @@
 - Разобраться с написанием скриптов .sh
 - Разобраться с написанием скриптов на Python
  ### С++11
+ - [X] **Разобраться с умными указателями**    
+   - [Пример_кода](https://gist.github.com/Spardoks/bfaafcf4fc1f383ee8c5747aacd38fb1)
+   - [Теория](https://ravesli.com/urok-193-std-unique_ptr/)
+   - [Подводные_камни](https://habr.com/ru/post/191018/)
  - Разобраться с variadic templates
  - Разобраться с thread
  - Разобраться с сокетами
@@ -164,7 +168,7 @@
 - [X] **Разобраться с any**
 - [X] **Разобраться с optional**
 - [X] **Разобраться с variant**    
- - [Any, optional, variant](https://github.com/cCppProsto/cpp/blob/master/cpp_17_features/optional_any_variant/main.cpp)
+  - [Any, optional, variant](https://github.com/cCppProsto/cpp/blob/master/cpp_17_features/optional_any_variant/main.cpp)
 ### C++20
 - Разобраться с модулями
 - Разобраться с ranges и pipes
