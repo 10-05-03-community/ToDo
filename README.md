@@ -161,9 +161,10 @@
  - Разобраться с atomic
  ### C++17
 - [X] **Разобраться с filesystem**
-- Разобраться с any
-- Разобраться с optional
-- Разобраться с variant
+- [X] **Разобраться с any**
+- [X] **Разобраться с optional**
+- [X] **Разобраться с variant**    
+ - [Any, optional, variant](https://github.com/cCppProsto/cpp/blob/master/cpp_17_features/optional_any_variant/main.cpp)
 ### C++20
 - Разобраться с модулями
 - Разобраться с ranges и pipes
